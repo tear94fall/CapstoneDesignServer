@@ -1,0 +1,8 @@
+main
+tags
+cscope.*
+*.o
+*.pem
+*.crt
+*.key
+*.conf
